@@ -1,0 +1,13 @@
+package com.example.msvcs;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsvcsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsvcsApplication.class, args);
+	}
+
+}
